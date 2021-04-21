@@ -7,34 +7,46 @@
 	When it is started, the wheels are moved by the gear worm and in this way the horse moves.
 
 
-	I chose to divide the mechanism into the following components (romanian language):
+	I chose to divide the mechanism into the following components :
 
- 		- baza
-		- carcasa motor
-		- cap cal
-		- coada cal
-		- corp parte fata
-		- corp parte spate
-		- mana stanga fata
-		- mana dreapta fata
-		- mana stanga spate
-		- mana dreapta spate
-		- camera fata
-		- camera spate
-		- axul
-		- rotita cu mijloc cerc
-		- rotita cu mijloc hexagon
-		- copita fata
-		- copita spate
-		- picior din fata partea inferioara din spate
-		- picior din fata partea superioara din spate
-		- picior din fata partea superioara din fata
-		- picior din fata partea inferioara din fata
-		- picior din spate partea inferioara din fata
-		- picior din spate partea superioara din fata
-		- picior din spate partea superioara din spate stanga
-		- picior din spate partea superioara din spate dreapta
-		- picior din spate partea inferioara din spate
-		- suruburi primul tip
-		- suruburi al doilea tip
-		- prinzator surub
+		- head
+
+		- tail
+
+		- screw first tipe
+
+		- screw second type
+
+		- spacer body
+
+		- body:
+		        - body front
+		        - body back
+		        - cam front
+		        - cam rear
+		        - gear idler- circle-shaped middle 
+		        - gear idler- hexagon-shaped middle
+		        - gear worm
+
+		- front legs:
+		         - support upper leg front left
+      		         - support upper leg front right
+		         - hoof front
+		         - leg front lower rear
+		         - leg front upper rear
+		         - leg front upper front
+		         - leg front lower front
+
+		- rear legs:
+		         - support upper leg rear left
+		         - support upper leg rear right
+		         - leg rear lower front
+		         - leg rear upper front
+		         - leg rear upper rear left
+		         - leg rear lower rear
+		         - leg rear upper rear right
+		         - hoof rear
+
+		- holder
+		         - base
+		         - housing motor
