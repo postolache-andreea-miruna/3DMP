@@ -50,3 +50,5 @@
 		- holder
 		         - base
 		         - housing motor
+
+	I made the motor house and the base (bonus) and also I made the body front and the body back.
