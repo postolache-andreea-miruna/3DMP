@@ -51,4 +51,23 @@
 		         - base
 		         - housing motor
 
+	Checkpoint 2
 	I made the motor house and the base (bonus) and also I made the body front and the body back.
+
+	14.05.2021(checkpoint 3)
+
+	I made the: 
+		-spacer body ( spacer central right, spacer central left, spacer for head and spacer for tail)
+		-gear worm 
+		-gear idler circled shaped in the middle
+		-gear idler with a hexagon shape in the middle
+		-cam front (behind and front for the front legs)
+		-cam rear (behind and front for the rearlegs)
+		-tail
+		-head
+	I import the screws but after that I design them.
+	For gears, tail and head I import a photo with them with the measure.
+	Also, I transform the motor up part of the motor into a component.
+	I made some joints for the tail, head and gears.
+
+	
