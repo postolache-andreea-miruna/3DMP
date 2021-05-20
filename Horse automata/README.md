@@ -22,7 +22,7 @@ When it is started, the wheels are moved by the gear worm and in this way the ho
 https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-88ff-d9c3dfd8315d.mp4
 
 
-
+## Main components and joints
 I chose to divide the mechanism into the following components :
 
 		- head
