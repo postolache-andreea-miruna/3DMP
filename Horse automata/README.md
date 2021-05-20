@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
   #### To make the wheels I measured the component from the initial mechanism and I made a canvas based on it. I made the sketch and copied the component several times and then I extruded them, and for the wheels with hexagon form in the middle I made an additional sketch.
   #### To make the gear worm I made the measurements on the initial component and I made the sketch that I extruded. To make the spiral I made two planes to delimit the area where the spiral will be.
 
-- front legs:
+- ### Front legs:
 		         
       		         
 			 - support upper leg front right
@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
   #### For all these components I measured the components from the initial mechanism and I made a canvas based on the measurements. I made the sketch and extruded the elements that I aligned suitable
   #### After extruding all of them I copied the large component and made the front leg on the other side.
 
-- rear legs:
+- ### Rear legs:
 		         
 		         
 			 - support upper leg rear right
@@ -119,13 +119,13 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
   #### For all these components I measured the components from the initial mechanism and I made a canvas based on the measurements. I made the sketch and extruded the elements that I aligned suitable
   #### After extruding all of them I copied the large component and made the rear leg on the other side.
 
-- holder
+- ### Holder
 		         
 			 - base
 		         
 			 - housing motor
 
-
+   #### To make the base I measured the component from the initial mechanism and I made a sketch that I extruded. In the same way I worked on the motor housing.
 
 Checkpoint 2
 I made the motor house and the base (bonus) and also I made the body front and the body back.
