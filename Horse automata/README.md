@@ -133,14 +133,10 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
    #### To make the base I measured the component from the initial mechanism and I made a sketch that I extruded. In the same way I worked on the motor housing.
 
+- ### Motor 
+ #### I imported a [motor](https://grabcad.com/library/n20-brushed-dc-gearmotor-single-shaft-1) and I change the size of the top of the motor to be the same with the one in the mechanism description.
+ #### After that I realised that I have to do a component for the motor up.
 
-
-
-
-
-
-I import the screws but after that I design them.
-For gears, tail and head I import a photo with them with the measure.
 Also, I transform the motor up part of the motor into a component.
 I made some joints for the tail, head and gears.
 
