@@ -2,9 +2,9 @@
 
 [Horse automata](https://www.youtube.com/watch?v=dtO8aX2QzzY)
 
-#### The author of this mechanism is Greg Zumwalt.  He posted the mechanism on the [site](https://www.instructables.com/Horse-Prototype/)
+#### The author of this mechanism is Greg Zumwalt.  He posted the mechanism on the [site](https://www.instructables.com/Horse-Prototype/).
 
-#### I used Fusion 360 to design and render the mechanism.
+#### I used [Fusion 360](https://www.autodesk.com/products/fusion-360/personal) to design and render the mechanism.
 
 ## Why this mechanism?
 #### I chose this mechanism because I like horses and also because it involves a lot of attention and it is very cute.
