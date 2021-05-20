@@ -79,6 +79,7 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
  
  #### To make the body front I made measurements on the component from the initial mechanism and I created the sketch, after which I extruded it. Before extruding it, I made a copy of the component to have the body behind it.
   #### To make the front cams, I made three sketches as follows: one of the hexagon type that I extruded, one circular on the surface of the hexagon and the third one is the outer circle. Cam front differs from cam rear by the size of the outer circle.
+  #### To make the wheels I measured the component from the initial mechanism and I made a canvas based on it. I made the sketch and copied the component several times and then I extruded them, and for the wheels with hexagon form in the middle I made an additional sketch.
 
 - front legs:
 		         - support upper leg front left
