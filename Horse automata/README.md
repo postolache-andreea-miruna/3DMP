@@ -11,6 +11,12 @@
 ##### Below I will attach an image of the mechanism I made.
 ![horse](https://user-images.githubusercontent.com/79594745/118943038-f051fe80-b95b-11eb-9969-98aa213c3c0c.jpg)
 
+##### Below I will attach a video presentation of the mechanism I made.
+
+https://user-images.githubusercontent.com/79594745/119022765-a263e780-b9a9-11eb-965d-c0aaf3d3e965.mp4
+
+
+
 ## Description and how it works
 
  ### The project that I chose is Horse Automata which shows the way a horse can move.
