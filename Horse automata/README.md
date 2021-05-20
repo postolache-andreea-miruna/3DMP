@@ -41,8 +41,12 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
  #### The tail is located in the back on a spacer body and it moves together with the support of the rear legs.
 
 - screw first tipe
+ #### I imported the screw from McMaster and copied it to put it in several places.
 
 - screw second type
+ #### I imported the screw from McMaster and changed the size and appearance of the end of the screw with a transversal plane.
+
+ #### I also copied it to put it in more places.
 
 - spacer body
 
