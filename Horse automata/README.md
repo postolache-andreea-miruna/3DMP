@@ -155,5 +155,12 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
  
 ### I grounded the holder, bodies and the motor (without the motor up component)
 
+### The joints that are participating in the motion are:
+ - #### revolute joint for the tail
+ 
+ - #### revolute joint for the head
+ 
+ - #### revolute joint for gear
+ 
 
 	
