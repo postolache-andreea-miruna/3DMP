@@ -22,7 +22,7 @@ When it is started, the wheels are moved by the gear worm and in this way the ho
 https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-88ff-d9c3dfd8315d.mp4
 
 
-## Main components and joints
+## Main components 
 ### I chose to divide the mechanism into the following components :
 
 - ### Head
@@ -135,9 +135,24 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
 - ### Motor 
  #### I imported a [motor](https://grabcad.com/library/n20-brushed-dc-gearmotor-single-shaft-1) and I change the size of the top of the motor to be the same with the one in the mechanism description.
- #### After that I realised that I have to do a component for the motor up.
+ #### Also, I transform the motor up part of the motor into a component.
 
-Also, I transform the motor up part of the motor into a component.
-I made some joints for the tail, head and gears.
+
+## Joints
+
+### For this mechanism I made several joints, like:
+ - #### revolute joint for the tail
+ 
+ - #### revolute joint for the head
+ 
+ - #### revolute joint for the gears
+ 
+ - #### revolute joint for the legs components
+ 
+ - #### rigid group for screws and legs components
+ 
+ - #### rigid group for the base, bodies and motor house
+ 
+
 
 	
