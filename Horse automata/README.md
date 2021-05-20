@@ -170,6 +170,10 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
  #### In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, .mp4 .
 
 ## Resources
-
+ [horse move](https://www.youtube.com/watch?v=dtO8aX2QzzY)
+ 
+ [horse mechanism first site](https://www.youmagine.com/designs/horse-prototype)
+ 
+ [horse mechanism second site](https://www.instructables.com/Horse-Prototype/)
 
 	
