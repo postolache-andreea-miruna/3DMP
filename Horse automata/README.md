@@ -1,13 +1,13 @@
-	Horse Automata
+# Horse Automata,Prototype
 
-	https://www.youtube.com/watch?v=dtO8aX2QzzY
+https://www.youtube.com/watch?v=dtO8aX2QzzY
 
-	The project that I chose is Horse Automata which shows the way a horse can move. 
-	To work, this mechanism uses a motor.
-	When it is started, the wheels are moved by the gear worm and in this way the horse moves.
+The project that I chose is Horse Automata which shows the way a horse can move. 
+To work, this mechanism uses a motor.
+When it is started, the wheels are moved by the gear worm and in this way the horse moves.
 
 
-	I chose to divide the mechanism into the following components :
+I chose to divide the mechanism into the following components :
 
 		- head
 
@@ -51,12 +51,12 @@
 		         - base
 		         - housing motor
 
-	Checkpoint 2
-	I made the motor house and the base (bonus) and also I made the body front and the body back.
+Checkpoint 2
+I made the motor house and the base (bonus) and also I made the body front and the body back.
 
-	14.05.2021(checkpoint 3)
+14.05.2021(checkpoint 3)
 
-	I made the: 
+I made the: 
 		-spacer body ( spacer central right, spacer central left, spacer for head and spacer for tail)
 		-gear worm 
 		-gear idler circled shaped in the middle
@@ -65,9 +65,9 @@
 		-cam rear (behind and front for the rearlegs)
 		-tail
 		-head
-	I import the screws but after that I design them.
-	For gears, tail and head I import a photo with them with the measure.
-	Also, I transform the motor up part of the motor into a component.
-	I made some joints for the tail, head and gears.
+I import the screws but after that I design them.
+For gears, tail and head I import a photo with them with the measure.
+Also, I transform the motor up part of the motor into a component.
+I made some joints for the tail, head and gears.
 
 	
