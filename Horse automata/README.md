@@ -11,10 +11,10 @@
  
 ![horse](https://user-images.githubusercontent.com/79594745/118943038-f051fe80-b95b-11eb-9969-98aa213c3c0c.jpg)
 
-## Description
+## Description and how it works
 
 The project that I chose is Horse Automata which shows the way a horse can move.
-## How it works?
+
 To work, this mechanism uses a 6vdc 300rpm gear motor (33x12mm 300RPM Metal Mini DC 6V Gearbox Gearwheel Motor Mini Reduce Speed Geared Electric Motor), a 6vdc wall mount power supply, and a phono jack for the power supply to power Horse, Prototype.
 
 When it is started, the wheels are moved by the gear worm and in this way the horse moves.
