@@ -23,19 +23,25 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
 
 ## Main components and joints
-I chose to divide the mechanism into the following components :
+### I chose to divide the mechanism into the following components :
 
-		- head
+- head
+	
+#### To make the head I made a canvas based on the stl from the main mechanism.
 
-		- tail
+#### I created the sketch based on the canvas and I extruded it.
 
-		- screw first tipe
+#### The head is located in front on a spacer body and it moves together with the support of the front legs.
 
-		- screw second type
+- tail
 
-		- spacer body
+- screw first tipe
 
-		- body:
+- screw second type
+
+- spacer body
+
+- body:
 		        - body front
 		        - body back
 		        - cam front
@@ -44,7 +50,7 @@ I chose to divide the mechanism into the following components :
 		        - gear idler- hexagon-shaped middle
 		        - gear worm
 
-		- front legs:
+- front legs:
 		         - support upper leg front left
       		         - support upper leg front right
 		         - hoof front
@@ -53,7 +59,7 @@ I chose to divide the mechanism into the following components :
 		         - leg front upper front
 		         - leg front lower front
 
-		- rear legs:
+- rear legs:
 		         - support upper leg rear left
 		         - support upper leg rear right
 		         - leg rear lower front
@@ -63,7 +69,7 @@ I chose to divide the mechanism into the following components :
 		         - leg rear upper rear right
 		         - hoof rear
 
-		- holder
+- holder
 		         - base
 		         - housing motor
 
