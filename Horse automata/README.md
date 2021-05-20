@@ -172,7 +172,7 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 ### To see how the mechanism works you need to play the horse walk motion study.
 ### If you  just want to see how the legs move you can press on the revolute joint for the gear warm.
  
-## Files that I have in repo:
+## Files that I have in my repository:
  #### In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, .mp4 .
 
 ## Resources
