@@ -8,8 +8,7 @@
 
 ## Why this mechanism?
 #### I chose this mechanism because I like horses and also because it involves a lot of attention and it is very cute.
-
- 
+##### Below I will attach an image of the mechanism I made.
 ![horse](https://user-images.githubusercontent.com/79594745/118943038-f051fe80-b95b-11eb-9969-98aa213c3c0c.jpg)
 
 ## Description and how it works
