@@ -84,7 +84,6 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
 - front legs:
 		         
-			 - support upper leg front left
       		         
 			 - support upper leg front right
 		         
@@ -97,6 +96,9 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 			 - leg front upper front
 		         
 			 - leg front lower front
+
+  #### For all these components I measured the components from the initial mechanism and I made a canvas based on the measurements. I made the sketch and extruded the elements that I aligned suitable
+  #### After extruding all of them I copied the large component and made the front leg on the other side.
 
 - rear legs:
 		         
