@@ -8,7 +8,7 @@
 
 ## Why this mechanism?
 #### I chose this mechanism because I like horses and also because it involves a lot of attention and it is very cute.
-##### Below I attached a video made by me with the movement made by the horse
+
  
 ![horse](https://user-images.githubusercontent.com/79594745/118943038-f051fe80-b95b-11eb-9969-98aa213c3c0c.jpg)
 
@@ -19,6 +19,7 @@
  ### To work, this mechanism uses a 6vdc 300rpm gear motor (33x12mm 300RPM Metal Mini DC 6V Gearbox Gearwheel Motor Mini Reduce Speed Geared Electric Motor), a 6vdc wall mount power supply, and a phono jack for the power supply to power Horse, Prototype.
 
  ### When it is started, the wheels are moved by the gear worm and in this way the horse moves.
+ ##### Below I attached a video made by me with the movement made by the horse
 
 https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-88ff-d9c3dfd8315d.mp4
 
