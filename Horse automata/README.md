@@ -52,13 +52,33 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
  #### I made a sketch for each spacer and extruded it.
 
 - body:
-		        - body front
-		        - body back
-		        - cam front
-		        - cam rear
-		        - gear idler- circle-shaped middle 
-		        - gear idler- hexagon-shaped middle
-		        - gear worm
+		        
+			- body front
+		        
+			- body behind
+		        
+			- cam front
+		        
+			- cam froont behind
+		        
+			- cam rear face
+		       
+		        - cam rear behind
+		        
+			- gear idler- circle-shaped middle 
+		        
+			- gear idler- circle-shaped middle L 
+		        
+			- gear idler- hexagon-shaped middle
+		        
+			- gear idler- hexagon-shaped middle L
+		        
+			- gear worm
+		        
+ 
+ 
+ #### To make the body front I made measurements on the component from the initial mechanism and I created the sketch, after which I extruded it. Before extruding it, I made a copy of the component to have the body behind it.
+  #### To make the front cams, I made three sketches as follows: one of the hexagon type that I extruded, one circular on the surface of the hexagon and the third one is the outer circle. Cam front differs from cam rear by the size of the outer circle.
 
 - front legs:
 		         - support upper leg front left
