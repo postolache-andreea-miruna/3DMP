@@ -102,7 +102,6 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
 - rear legs:
 		         
-			 - support upper leg rear left
 		         
 			 - support upper leg rear right
 		         
@@ -110,19 +109,23 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 		         
 			 - leg rear upper front
 		         
-			 - leg rear upper rear left
-		         
 			 - leg rear lower rear
 		         
 			 - leg rear upper rear right
 		         
 			 - hoof rear
 
+  
+  #### For all these components I measured the components from the initial mechanism and I made a canvas based on the measurements. I made the sketch and extruded the elements that I aligned suitable
+  #### After extruding all of them I copied the large component and made the rear leg on the other side.
+
 - holder
 		         
 			 - base
 		         
 			 - housing motor
+
+
 
 Checkpoint 2
 I made the motor house and the base (bonus) and also I made the body front and the body back.
