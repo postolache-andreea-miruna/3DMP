@@ -45,7 +45,13 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
 - ### Screw second type
  #### I imported the screw from McMaster and changed the size and appearance of the end of the screw with a transversal plane.
-
+ 
+ #### I also copied it to put it in more places.
+ 
+- ### Screw for legs
+ #### I imported the screw from McMaster and changed the appearance of it. 
+ #### I changed the way the screw looks by replacing the spiral area over a certain distance with a smooth area. (I used construction planes)
+ 
  #### I also copied it to put it in more places.
 
 - ### Spacer body
@@ -127,20 +133,12 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 
    #### To make the base I measured the component from the initial mechanism and I made a sketch that I extruded. In the same way I worked on the motor housing.
 
-Checkpoint 2
-I made the motor house and the base (bonus) and also I made the body front and the body back.
 
-14.05.2021(checkpoint 3)
 
-I made the: 
-		-spacer body ( spacer central right, spacer central left, spacer for head and spacer for tail)
-		-gear worm 
-		-gear idler circled shaped in the middle
-		-gear idler with a hexagon shape in the middle
-		-cam front (behind and front for the front legs)
-		-cam rear (behind and front for the rearlegs)
-		-tail
-		-head
+
+
+
+
 I import the screws but after that I design them.
 For gears, tail and head I import a photo with them with the measure.
 Also, I transform the motor up part of the motor into a component.
