@@ -167,7 +167,7 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 ### If you  just want to see how the legs move you can press on the revolute joint for the gear warm.
  
 ## Files that I have in repo:
- ####In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, .mp4 .
+ #### In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, .mp4 .
 
 ## Resources
 
