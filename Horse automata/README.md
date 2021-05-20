@@ -25,15 +25,20 @@ https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-
 ## Main components and joints
 ### I chose to divide the mechanism into the following components :
 
-- head
+- HEAD
 	
-#### To make the head I made a canvas based on the stl from the main mechanism.
+ #### To make the head I made a canvas based on the stl from the main mechanism.
 
-#### I created the sketch based on the canvas and I extruded it.
+ #### I created the sketch based on the canvas and I extruded it.
 
-#### The head is located in front on a spacer body and it moves together with the support of the front legs.
+ #### The head is located in front on a spacer body and it moves together with the support of the front legs.
 
-- tail
+- TAIL
+ #### To make the tail I made a canvas based on the stl from the main mechanism.
+
+ #### I created the sketch based on the canvas and I extruded it.
+
+ #### The tail is located in the back on a spacer body and it moves together with the support of the rear legs.
 
 - screw first tipe
 
