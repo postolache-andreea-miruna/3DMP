@@ -2,15 +2,21 @@
 
 [Horse automata](https://www.youtube.com/watch?v=dtO8aX2QzzY)
 
-# Why this mechanism?
+The author of this mechanism is Greg Zumwalt. 
+
+He posted the mechanism on the [site](https://www.instructables.com/Horse-Prototype/)
+
+## Why this mechanism?
 I chose this mechanism because I like horses and also because it involves a lot of attention and it is very cute.
  
 ![horse](https://user-images.githubusercontent.com/79594745/118943038-f051fe80-b95b-11eb-9969-98aa213c3c0c.jpg)
 
-# Desrciption
+## Desrciption
 
 The project that I chose is Horse Automata which shows the way a horse can move.
+
 To work, this mechanism uses a motor.
+
 When it is started, the wheels are moved by the gear worm and in this way the horse moves.
 
 https://user-images.githubusercontent.com/79594745/118943265-21caca00-b95c-11eb-88ff-d9c3dfd8315d.mp4
